@@ -3,6 +3,7 @@ package co.example.fitnesstracker
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.EditText
 import android.widget.LinearLayout
 
 class MainActivity : AppCompatActivity() {
